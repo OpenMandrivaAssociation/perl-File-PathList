@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	4
 
 Summary:	Find a file within a set of paths (like @INC or Java classpaths)
 License:	GPL+ or Artistic
